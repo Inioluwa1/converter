@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: aqua;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.header h5 {
+  font-style: italic;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+
+.main {
+  margin: 5px auto 5px auto;
+}
